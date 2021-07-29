@@ -8,6 +8,7 @@ Wikipedia: https://en.wikipedia.org/wiki/Yahtzee
 
 
 <br/>
-<br/>
 ## GUI
 ![image](https://github.com/Harsha-Pattapusetti/Yahtzee-Game/blob/c1336253dd8517f4d7f60f580dcff3517391a13b/Screen%20Shot%202021-07-28%20at%207.12.29%20PM.png)
+
+
