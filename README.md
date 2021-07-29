@@ -6,7 +6,7 @@ This is a relatively simple game to learn and involves 5 dice and 1 to 4 players
 ## Game Rules 
 Wikipedia: https://en.wikipedia.org/wiki/Yahtzee
 
-
+## GUI
 <br/>
 
 ![image](https://github.com/Harsha-Pattapusetti/Yahtzee-Game/blob/c1336253dd8517f4d7f60f580dcff3517391a13b/Screen%20Shot%202021-07-28%20at%207.12.29%20PM.png)
